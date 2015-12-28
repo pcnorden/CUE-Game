@@ -1,0 +1,7 @@
+c:\users\user\documents\visual studio 2015\Projects\CUEGame\CUEGame\bin\Debug\CUEGame.exe.config
+c:\users\user\documents\visual studio 2015\Projects\CUEGame\CUEGame\bin\Debug\CUEGame.exe
+c:\users\user\documents\visual studio 2015\Projects\CUEGame\CUEGame\bin\Debug\CUEGame.pdb
+c:\users\user\documents\visual studio 2015\Projects\CUEGame\CUEGame\bin\Debug\CUE.NET.dll
+c:\users\user\documents\visual studio 2015\Projects\CUEGame\CUEGame\obj\Debug\CUEGame.exe
+c:\users\user\documents\visual studio 2015\Projects\CUEGame\CUEGame\obj\Debug\CUEGame.pdb
+C:\Users\User\documents\visual studio 2015\Projects\CUEGame\CUEGame\obj\Debug\CUEGame.csprojResolveAssemblyReference.cache
